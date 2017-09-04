@@ -1,6 +1,8 @@
 ## Microservice
 Bluemix Microservice Starter in Java
 
+This is for ICp Workshop
+
 [![](https://img.shields.io/badge/bluemix-powered-blue.svg)](https://bluemix.net)
 [![Platform](https://img.shields.io/badge/platform-java-lightgrey.svg?style=flat)](https://www.ibm.com/developerworks/learn/java/)
 
